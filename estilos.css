@@ -61,7 +61,7 @@ main .personagem .imagem {
 .conteudo .logo {
     background-image: url("logobts.jpeg");
     background-size: cover;
-    height: 80px;
+    height: 180px;
     width: 180px;
     margin-bottom: 35px;
 }
