@@ -59,7 +59,7 @@ main .personagem .imagem {
 }
 
 .conteudo .logo {
-    background-image: url("../imagens/imagens-1/logo-atal.png");
+    background-image: url("logobts.jpeg");
     background-size: cover;
     height: 80px;
     width: 180px;
