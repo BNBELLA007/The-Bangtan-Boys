@@ -62,7 +62,7 @@ main .personagem .imagem {
     background-image: url("logo2.png");
     background-size: cover;
     height: 180px;
-    width: 180px;
+    width: 80px;
     margin-bottom: 180px;
 }
 
